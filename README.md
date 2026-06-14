@@ -26,6 +26,14 @@ A handwritten digit classifier built completely from scratch using only NumPy.
 
 ## Results 📈
 
+### Training Accuracy
+
+![Training Accuracy](images/training_accuracy.png)
+
+### Example Prediction
+
+![Prediction Example](images/prediction_example.png)
+
 🎯 ~90% Accuracy on MNIST
 
 ## Why I Built This
